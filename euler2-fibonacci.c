@@ -28,4 +28,8 @@ int main () {
 
 	int newCode () {
 	}
+
+	int awesomeFunction () {
+	}
+
 }
