@@ -6,6 +6,7 @@ int main () {
 	long double term1=0, term2=1, term3;
 	long double total, i;
 	int r;
+	int new;
 
 	for (i=0;i<4000000;i++) {
 		term3 = term1 + term2;
