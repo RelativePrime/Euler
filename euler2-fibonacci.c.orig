@@ -30,7 +30,10 @@ int main () {
 	 // Amazing Code!
 	}
 
+<<<<<<< HEAD
 	int awesomeFunction () {
 	}
 
+=======
+>>>>>>> e97145ece12f05526e1e655f5824b375a88a29d2
 }
