@@ -27,5 +27,7 @@ int main () {
 		}
 
 	int newCode () {
+	 // Amazing Code!
 	}
+
 }
