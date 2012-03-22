@@ -23,6 +23,7 @@ int main () {
 	printf("\nTotal of even number Fibonacci terms < 4 Million: %.0Lf\n",total);
 
 	int amazingCode() {
+		// Add cool stuff here
 		}
 
 	int newCode () {
