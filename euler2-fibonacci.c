@@ -3,6 +3,7 @@
 
 int main () {
 
+	float blah;
 	long double term1=0, term2=1, term3;
 	long double total, i;
 	int r;
