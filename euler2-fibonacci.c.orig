@@ -3,7 +3,6 @@
 
 int main () {
 
-	float blah;
 	long double term1=0, term2=1, term3;
 	long double total, i;
 	int r;
@@ -31,7 +30,10 @@ int main () {
 	 // Amazing Code!
 	}
 
+<<<<<<< HEAD
 	int awesomeFunction () {
 	}
 
+=======
+>>>>>>> e97145ece12f05526e1e655f5824b375a88a29d2
 }
